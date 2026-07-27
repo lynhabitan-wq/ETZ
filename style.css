@@ -175,3 +175,8 @@ a:hover {
   border-radius: 8px;
   margin-bottom: 10px;
 }
+.hero-logo {
+  width: 400px;
+  max-width: 90%;
+  margin-bottom: 20px;
+}
