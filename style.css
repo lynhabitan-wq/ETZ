@@ -196,7 +196,7 @@ a:hover {
   border-radius: 8px;
 }
 
-..tagline {
+.tagline {
   font-family: 'Abuget', cursive;
   font-size: 4.5rem;
   color: #4169e1 !important;
