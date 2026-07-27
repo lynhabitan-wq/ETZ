@@ -196,9 +196,9 @@ a:hover {
   border-radius: 8px;
 }
 
-.tagline {
+..tagline {
   font-family: 'Abuget', cursive;
-  font-size: 9rem;
+  font-size: 4.5rem;
   color: #4169e1 !important;
   margin-bottom: 28px;
   text-align: center;
