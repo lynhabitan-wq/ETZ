@@ -70,11 +70,16 @@ a:hover {
   color: var(--color-primary);
 }
 
+.header {
+  display: block;
+  width: 100%;
+}
 .hero {
   text-align: center;
   padding: 64px 24px 80px;
   background: var(--color-primary-dark);
   color: #fff;
+  width: 100%;
 }
 
 .hero h2 {
