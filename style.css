@@ -81,7 +81,7 @@ a:hover {
 .hero {
   text-align: center;
   padding: 64px 24px 80px;
-  background: var(--color-primary-dark);
+  background: #ffffff;
   color: #fff;
   width: 100%;
 }
@@ -196,10 +196,10 @@ a:hover {
   border-radius: 8px;
 }
 
-.tagline {
+..tagline {
   font-family: 'Abuget', cursive;
   font-size: 3.6rem;
-  color: #ffffff !important;
+  color: #4169e1 !important;
   margin-bottom: 28px;
   text-align: center;
 }
